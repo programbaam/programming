@@ -1,0 +1,1 @@
+int __strlen(char* pStr);

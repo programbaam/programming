@@ -1,0 +1,1 @@
+unsigned char* __randmem(int nSize);
